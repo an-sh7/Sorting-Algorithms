@@ -23,6 +23,6 @@ int main(){
     int arr[] = {1, 2, 4, 5, 6, 7, 8, 10, 34, 65, 76};
     int target = 34;
     int size = sizeof(arr) / sizeof(arr[0]);
-
     int search = binary_search(target, arr, size);
+    printf("%d",search);
 }
