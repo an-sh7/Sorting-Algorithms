@@ -37,7 +37,7 @@ Understanding sorting algorithms is essential for any programmer, and this repos
    - Language: [Python](radix_sort/python/radix_sort.py), [Java](radix_sort/java/RadixSort.java), [C](radix_sort/c/radix_sort.c)
      
 8. **Binary Sort**
-   - Language: [C](binary_sort/binary_sort.c)
+   - Language: [C](Binary_sort/binary_sort.c)
 
 ... (Add more sorting algorithms as needed)
 
