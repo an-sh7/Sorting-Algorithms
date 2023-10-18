@@ -80,6 +80,6 @@ Contributions are highly encouraged! If you have a sorting algorithm you'd like 
 
 8. **Open a pull request (PR)**: Go to the [original repository](https://github.com/anshjain722/Sorting-Algorithms/) and click on the "New Pull Request" button. Provide a clear title and description for your pull request.
 
-### That's it! Your contribution will be reviewed, and if everything looks good, it will be merged into the main repository.
+That's it! Your contribution will be reviewed, and if everything looks good, it will be merged into the main repository.
 
-Thank you for contributing to the Sorting Algorithms Repository! 🚀
+### Thank you for contributing to the Sorting Algorithms Repository! 🚀
