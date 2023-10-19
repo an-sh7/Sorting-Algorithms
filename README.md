@@ -38,6 +38,9 @@ Understanding sorting algorithms is essential for any programmer, and this repos
         
    8. **Binary Sort**
       - Language: [C](Binary_sort/binary_sort.c)
+   
+   9. **Recursive Binary Sort**
+      - Language: [Python](Binary_sort/Recursive/recursive_binary.py)
 
 ... (Add more sorting algorithms as needed)
 
