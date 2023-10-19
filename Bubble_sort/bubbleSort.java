@@ -1,7 +1,7 @@
 /*In bubble sort we compare the first two elements and then switch them according to the value*/
 
 
-public class bubble_sort {
+public class bubbleSort {
     public static void main(String[] args) {
         int list[] = {2, 4, 62, 25, 6, 36, 52};
         int n = list.length;
