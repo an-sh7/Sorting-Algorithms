@@ -18,22 +18,22 @@ Understanding sorting algorithms is essential for any programmer, and this repos
    1. **Bubble Sort**
       - Language: [Python](Bubble_sort/bubble_sort.py), [Java](Bubble_sort/bubbleSort.java), [C](Bubble_sort/bubble_sort.c)
    
-   2. **Insertion Sort**
+   2. **Not Added(Insertion Sort)**
       - Language: [Python](Insertion_sort/insertion_sort.py), [Java](Insertion_sort/insertionSort.java), [C](Insertion_sort/insertion_sort.c)
    
-   3. **Selection Sort**
+   3. **Not Added(Selection Sort)**
       - Language: [Python](Selection_sort/selection_sort.py), [Java](Selection_sort/selectionSort.java), [C](Selection_sort/selection_sort.c)
    
-   4. **Merge Sort**
+   4. **Not Added(Merge Sort)**
       - Language: [Python](Merge_sort/merge_sort.py), [Java](Merge_sort/mergeSort.java), [C](Merge_sort/merge_sort.c)
    
-   5. **Quick Sort**
+   5. **Not Added(Quick Sort)**
       - Language: [Python](Quick_sort/quick_sort.py), [Java](Quick_sort/quickSort.java), [C](Quick_sort/quick_sort.c)
    
-   6. **Heap Sort**
+   6. **Not Added(Heap Sort)**
       - Language: [Python](Heap_sort/heap_sort.py), [Java](Heap_sort/heapSort.java), [C](Heap_sort/heap_sort.c)
    
-   7. **Radix Sort**
+   7. **Not Added(Radix Sort)**
       - Language: [Python](Radix_sort/radix_sort.py), [Java](Radix_sort/radixSort.java), [C](Radix_sort/radix_sort.c)
         
    8. **Binary Sort**
