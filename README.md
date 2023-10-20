@@ -45,7 +45,7 @@ Feel free to explore the code and documentation for each sorting algorithm in th
 
 Contributions are highly encouraged! If you have a sorting algorithm you'd like to add to this repository, or if you want to improve existing code, please follow these steps:
 
-1. **Clone your fork**: Clone your fork to your local machine using the following command:
+1. **Clone Repo**: Clone to your local machine using the following command:
 
    ```bash
    git clone https://github.com/anshjain722/sorting-algorithms.git
