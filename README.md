@@ -18,7 +18,7 @@ Understanding sorting algorithms is essential for any programmer, and this repos
    1. **Bubble Sort**
       - Language: [Python](Bubble_sort/bubble_sort.py), [Java](Bubble_sort/bubbleSort.java), [C](Bubble_sort/bubble_sort.c)
    
-   2. **Not Added(Insertion Sort)**
+   2. **Insertion Sort**
       - Language: [Python](Insertion_sort/insertion_sort.py), [Java](Insertion_sort/insertionSort.java), [C](Insertion_sort/insertion_sort.c)
    
    3. **Not Added(Selection Sort)**
