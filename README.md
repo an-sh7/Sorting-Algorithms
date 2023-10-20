@@ -45,38 +45,36 @@ Feel free to explore the code and documentation for each sorting algorithm in th
 
 Contributions are highly encouraged! If you have a sorting algorithm you'd like to add to this repository, or if you want to improve existing code, please follow these steps:
 
-1. **Fork the repository**: Click the "Fork" button on the top right of this page. This creates a copy of the repository in your GitHub account.
-
-2. **Clone your fork**: Clone your fork to your local machine using the following command:
+1. **Clone Repo**: Clone to your local machine using the following command:
 
    ```bash
    git clone https://github.com/anshjain722/sorting-algorithms.git
    ```
 
-3. **Create a new branch**: Create a new branch for your sorting algorithm or improvement:
+2. **Create a new branch**: Create a new branch for your sorting algorithm or improvement:
 
    ```bash
    git checkout -b feature/your-sorting-algorithm
    ```
 
-4. **Add your code**: Write clear and well-documented code for your sorting algorithm. Place it in the appropriate language-specific directory (e.g., `c/your_sorting_algorithm.c`).
+3. **Add your code**: Write clear and well-documented code for your sorting algorithm. Place it in the appropriate language-specific directory (e.g., `c/your_sorting_algorithm.c`).
 
-5. **Update the README**: If you added a new sorting algorithm, make sure to update the README with information about your algorithm. Add a brief description, the language it's implemented in, and a link to the code.
+4. **Update the README**: If you added a new sorting algorithm, make sure to update the README with information about your algorithm. Add a brief description, the language it's implemented in, and a link to the code.
 
-6. **Commit your changes**: Commit your changes with a clear message:
+5. **Commit your changes**: Commit your changes with a clear message:
 
    ```bash
    git add .
    git commit -m "Add [Your Sorting Algorithm] in [Language]"
    ```
 
-7. **Push your changes**: Push your changes to your fork:
+6. **Push your changes**: Push your changes to your fork:
 
    ```bash
    git push origin feature/your-sorting-algorithm
    ```
 
-8. **Open a pull request (PR)**: Go to the [original repository](https://github.com/anshjain722/Sorting-Algorithms/) and click on the "New Pull Request" button. Provide a clear title and description for your pull request.
+7. **Open a pull request (PR)**: Go to the [original repository](https://github.com/anshjain722/Sorting-Algorithms/) and click on the "New Pull Request" button. Provide a clear title and description for your pull request.
 
 That's it! Your contribution will be reviewed, and if everything looks good, it will be merged into the main repository.
 
