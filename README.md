@@ -1,7 +1,7 @@
 # Sorting Algorithms Repository
 ### ⚠️This repo is not complete, all algorithms will be added in future.⚠️
 
-This repository is a collection of sorting algorithms implemented in various programming languages, with a focus on C. Sorting algorithms are fundamental in computer science and play a crucial role in organizing data efficiently. Whether you are a beginner looking to understand sorting algorithms or an experienced developer exploring different implementations, this repository aims to provide a comprehensive collection of sorting algorithms.
+This repository is a collection of sorting algorithms implemented in various programming languages. Sorting algorithms are fundamental in computer science and play a crucial role in organizing data efficiently. Whether you are a beginner looking to understand sorting algorithms or an experienced developer exploring different implementations, this repository aims to provide a comprehensive collection of sorting algorithms.
 
 ## Table of Contents
 
@@ -36,46 +36,64 @@ Understanding sorting algorithms is essential for any programmer, and this repos
    7. **Not Added(Radix Sort)**
       - Language: [Python](Radix_sort/radix_sort.py), [Java](Radix_sort/radixSort.java), [C](Radix_sort/radix_sort.c)
 
-
-... (Add more sorting algorithms as needed)
-
-Feel free to explore the code and documentation for each sorting algorithm in their respective folders.
+Feel free to explore the code for each sorting algorithm in their respective folders.
 
 ## How to Contribute
 
 Contributions are highly encouraged! If you have a sorting algorithm you'd like to add to this repository, or if you want to improve existing code, please follow these steps:
 
-1. **Clone Repo**: Clone to your local machine using the following command:
+1. **Fork the Repository:**
+   - On the GitHub project page, click the "Fork" button to create a copy of the repository under your GitHub account.
 
-   ```bash
-   git clone https://github.com/anshjain722/sorting-algorithms.git
-   ```
+2. **Clone Your Fork:**
+   - Clone your forked repository to your local machine using the following command:
+     ```
+     git clone https://github.com/your-username/sorting-algorithms.git
+     ```
 
-2. **Create a new branch**: Create a new branch for your sorting algorithm or improvement:
+3. **Sync with the Original Repository:**
+   - Add the original repository as a remote to keep your fork up-to-date:
+     ```
+     git remote add upstream https://github.com/anshjain722/sorting-algorithms.git
+     ```
+   - Periodically fetch and merge changes from the original repository:
+     ```
+     git fetch upstream
+     git merge upstream/main
+     ```
 
-   ```bash
-   git checkout -b feature/your-sorting-algorithm
-   ```
+4. **Create a New Branch:**
+   - Create a new branch for your sorting algorithm or improvement:
+     ```
+     git checkout -b feature/your-sorting-algorithm
+     ```
 
-3. **Add your code**: Write clear and well-documented code for your sorting algorithm. Place it in the appropriate language-specific directory (e.g., `c/your_sorting_algorithm.c`).
+5. **Add Your Code:**
+   - Write clear and well-documented code for your sorting algorithm.
+   - Place it in the appropriate language-specific directory (e.g., `algorithm_folder/your_sorting_algorithm.py`).
 
-4. **Update the README**: If you added a new sorting algorithm, make sure to update the README with information about your algorithm. Add a brief description, the language it's implemented in, and a link to the code.
+6. **Update the README:**
+   - If you added a new sorting algorithm, make sure to update the README with information about your algorithm.
+   - Add a brief description, the language it's implemented in, and a link to the code.
 
-5. **Commit your changes**: Commit your changes with a clear message:
+7. **Commit Your Changes:**
+   - Commit your changes with a clear message:
+     ```
+     git add .
+     git commit -m "Add [Your Sorting Algorithm] in [Language]"
+     ```
 
-   ```bash
-   git add .
-   git commit -m "Add [Your Sorting Algorithm] in [Language]"
-   ```
+8. **Push Your Changes:**
+   - Push your changes to your fork:
+     ```
+     git push origin feature/your-sorting-algorithm
+     ```
 
-6. **Push your changes**: Push your changes to your fork:
+9. **Open a Pull Request (PR):**
+   - Go to the original repository on GitHub and click on the "New Pull Request" button.
+   - Provide a clear title and description for your pull request.
 
-   ```bash
-   git push origin feature/your-sorting-algorithm
-   ```
-
-7. **Open a pull request (PR)**: Go to the [original repository](https://github.com/anshjain722/Sorting-Algorithms/) and click on the "New Pull Request" button. Provide a clear title and description for your pull request.
-
-That's it! Your contribution will be reviewed, and if everything looks good, it will be merged into the main repository.
+10. **Pull Request Etiquette:**
+    - Be patient and respectful when waiting for your pull request to be reviewed. It may take some time for me to get back to you.
 
 ### Thank you for contributing to the Sorting Algorithms Repository! 🚀
