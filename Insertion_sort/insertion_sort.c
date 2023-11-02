@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main(){
-    int list[] = {2,5,3,63,36,34,25,72};
+    int list[] = {7,5,3,63,36,34,25,72};
     int n = sizeof(list)/sizeof(list[0]);
     int key = 0;
 
@@ -18,7 +18,7 @@ int main(){
     }
     for (int i = 0; i < n; i++)
     {
-        printf("%d\n",list[i]);
+        printf("%d ",list[i]);
     }
     
 }   
