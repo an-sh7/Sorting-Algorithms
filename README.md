@@ -21,7 +21,7 @@ Understanding sorting algorithms is essential for any programmer, and this repos
    2. **Insertion Sort**
       - Language: [Python](Insertion_sort/insertion_sort.py), [Java](Insertion_sort/insertionSort.java), [C](Insertion_sort/insertion_sort.c)
    
-   3. **Not Added(Selection Sort)**
+   3. **Selection Sort**
       - Language: [Python](Selection_sort/selection_sort.py), [Java](Selection_sort/selectionSort.java), [C](Selection_sort/selection_sort.c)
    
    4. **Not Added(Merge Sort)**
