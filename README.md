@@ -1,5 +1,5 @@
 # Sorting Algorithms Repository
-### ⚠️This repo is not complete, all algorithms will be added in future.⚠️
+### ⚠️This repo is not complete, algorithms will be added in one by one order.⚠️
 
 This repository is a collection of sorting algorithms implemented in various programming languages. Sorting algorithms are fundamental in computer science and play a crucial role in organizing data efficiently. Whether you are a beginner looking to understand sorting algorithms or an experienced developer exploring different implementations, this repository aims to provide a comprehensive collection of sorting algorithms.
 
