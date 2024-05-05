@@ -97,3 +97,6 @@ Contributions are highly encouraged! If you have a sorting algorithm you'd like 
     - Be patient and respectful when waiting for your pull request to be reviewed. It may take some time for me to get back to you.
 
 ### Thank you for contributing to the Sorting Algorithms Repository! 🚀
+
+## License
+[MIT License](LICENSE)
